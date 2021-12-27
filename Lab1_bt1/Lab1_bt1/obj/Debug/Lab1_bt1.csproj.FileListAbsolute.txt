@@ -1,0 +1,8 @@
+C:\Users\Andoy\Desktop\New folder\Lab\Lab1_bt1\Lab1_bt1\bin\Debug\Lab1_bt1.exe.config
+C:\Users\Andoy\Desktop\New folder\Lab\Lab1_bt1\Lab1_bt1\bin\Debug\Lab1_bt1.exe
+C:\Users\Andoy\Desktop\New folder\Lab\Lab1_bt1\Lab1_bt1\bin\Debug\Lab1_bt1.pdb
+C:\Users\Andoy\Desktop\New folder\Lab\Lab1_bt1\Lab1_bt1\obj\Debug\Lab1_bt1.csproj.AssemblyReference.cache
+C:\Users\Andoy\Desktop\New folder\Lab\Lab1_bt1\Lab1_bt1\obj\Debug\Lab1_bt1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andoy\Desktop\New folder\Lab\Lab1_bt1\Lab1_bt1\obj\Debug\Lab1_bt1.csproj.CoreCompileInputs.cache
+C:\Users\Andoy\Desktop\New folder\Lab\Lab1_bt1\Lab1_bt1\obj\Debug\Lab1_bt1.exe
+C:\Users\Andoy\Desktop\New folder\Lab\Lab1_bt1\Lab1_bt1\obj\Debug\Lab1_bt1.pdb

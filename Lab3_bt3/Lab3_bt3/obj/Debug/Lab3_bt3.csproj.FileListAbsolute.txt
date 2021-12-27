@@ -1,0 +1,8 @@
+C:\Users\Andoy\Desktop\New folder\Lab\Lab3_bt3\Lab3_bt3\bin\Debug\Lab3_bt3.exe.config
+C:\Users\Andoy\Desktop\New folder\Lab\Lab3_bt3\Lab3_bt3\bin\Debug\Lab3_bt3.exe
+C:\Users\Andoy\Desktop\New folder\Lab\Lab3_bt3\Lab3_bt3\bin\Debug\Lab3_bt3.pdb
+C:\Users\Andoy\Desktop\New folder\Lab\Lab3_bt3\Lab3_bt3\obj\Debug\Lab3_bt3.csproj.AssemblyReference.cache
+C:\Users\Andoy\Desktop\New folder\Lab\Lab3_bt3\Lab3_bt3\obj\Debug\Lab3_bt3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andoy\Desktop\New folder\Lab\Lab3_bt3\Lab3_bt3\obj\Debug\Lab3_bt3.csproj.CoreCompileInputs.cache
+C:\Users\Andoy\Desktop\New folder\Lab\Lab3_bt3\Lab3_bt3\obj\Debug\Lab3_bt3.exe
+C:\Users\Andoy\Desktop\New folder\Lab\Lab3_bt3\Lab3_bt3\obj\Debug\Lab3_bt3.pdb
